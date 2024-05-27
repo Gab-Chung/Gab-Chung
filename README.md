@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gab-Chung
-- 👀 I’m interested in Web Development and AR
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on AR and 3D website
+- 👀 I’m interested in AI/ML
+- 🌱 I’m currently learning Natural Language Processing
+- 💞️ I’m looking to collaborate on Large Language Models
 - 📫 How to reach me gabrielchung50@gmail.com
 
 <!---
