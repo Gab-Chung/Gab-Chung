@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gab-Chung
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Natural Language Processing
+- 🌱 I’m currently learning Generative AI
 - 💞️ I’m looking to collaborate on Large Language Models
 - 📫 How to reach me gabrielchung50@gmail.com
 
